@@ -1,7 +1,7 @@
-# hackintosh 黑苹果EFI
+# hackintosh 黑苹果
 
-### i5-8500+B360M+GTX1060 5G
-组装机，京东购入，京天华盛，使用了ASUS B360M-PIXIU 电商专供版，USB接口略有问题，显示为七彩虹1060的5G现存版本
+### i5-8500 + B360M-PIXIU + GTX1060 5G
+该组装机 主板使用了ASUS B360M-PIXIU 电商专供版，显卡是七彩虹GTX1060 5G，传说中的网吧专供版
 由于显卡驱动的问题只能安装 10.13.6 high sierra
  * 安装盘制作选择了 [unibeast](https://www.tonymacx86.com/resources/unibeast-8-3-2-high-sierra.383/)
  * 主板BOIS设置，建议多尝试调整几次，我直接加载的优化过后的配置，现在也能正常启动
